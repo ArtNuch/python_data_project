@@ -6,4 +6,6 @@ View my notebook with detailed steps here:
 
 ### Results
 
-[Visualization of Top Skill for Data Analysts]()
+![Visualization of Top Skill for Data Analysts](3_Project/images/skill_demand.png)
+
+### Insights
